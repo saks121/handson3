@@ -1,8 +1,8 @@
 import React from "react";
 class EmpData extends React.Component{
-    Constructor(props){
+    constructor(props){
         super(props);
-    }
+    };
     render(){
         return(
             <div className="Shw-b" >
