@@ -1,6 +1,6 @@
 import React from "react";
 class EmpData extends React.Component{
-    constructor(props){
+    Constructor(props){
         super(props);
     }
     render(){
