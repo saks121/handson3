@@ -1,0 +1,59 @@
+body {
+  text-align: center;
+  background-image: linear-gradient(to left, pink,cyan, transparent);
+}
+
+.text-f{
+  background-color: grey;
+  border-color: black;
+  border-radius: 20px;
+  color: white;
+  width: 250px;
+  height: 40px;
+  text-align: center;
+}
+
+.sub-b{
+  width: 200px;
+  height: 40px;
+  background-color: grey;
+  border-color: black;
+  border-radius: 20px;
+  font-size: 20px;
+  color: white;
+}
+
+.sub-btn{
+  width: 200px;
+  height: 40px;
+  background-color: grey;
+  border-color: black;
+  border-radius: 20px;
+  font-size: 20px;
+  color: white;
+  position: relative;
+  top: 60px;
+  left: 25px;
+}
+
+.Shw-b{
+  width:900px;
+  height:auto;
+  display:flex;
+  align-items: flex-start;
+  justify-content:center;
+  flex-wrap: wrap;
+  background-color: cadetblue;
+  position: relative;
+  left:230px;
+}
+
+.cont-b{
+  width:500px;
+  height:auto;
+  background-color: palevioletred;
+  border-radius: 12px;
+  border-color: black;
+
+}
+ 
