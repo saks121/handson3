@@ -1,9 +1,7 @@
 import React from "react";
 class EmpData extends React.Component{
-    constructor(props){
-        super(props);
-    };
-    render(){
+     
+    render(props){
         return(
             <div className="Shw-b" >
                 {this.props.dataprop.map((item,index)=>{
